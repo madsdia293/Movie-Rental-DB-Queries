@@ -1,6 +1,6 @@
 # Movie-Rental-DB-Queries
 
-This repository contains a set of SQL queries that demonstrate the ability to perform meaningful queries on a film rental database. The queries cover various aspects such as filtering, joining tables, using case expressions, timestamps, and extracting information. Below is a description of each query:
+This repository contains a set of SQL queries that demonstrate the ability to perform meaningful queries on a film rental database. The .tar file for the database that was used is included in the files. The queries cover various aspects such as filtering, joining tables, using case expressions, timestamps, and extracting information. Below is a description of each query:
 
 ## Simple Queries
 Payment Transactions greater than $5.00
